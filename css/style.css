@@ -17,4 +17,33 @@ body {
 	padding: 0 45px 20px;
 }
 
+h1{
+	font-family: 'Baskerville', serif;
+	font-size: 5em; /* 1em = 16px*/
+	color: rgb(152,173,166); 
+}
+
+h2{
+	font-size: 2em;
+	color: rgb(111,127,122); 
+}
+
+p{
+	font-size: 1em;
+	color: #555;
+}
+
 /* Write all remaining styles here */
+
+.image1{
+	border: 5px solid rgb(152,173,166);
+}
+
+.image2{
+	border: 5px solid #ccc;
+}
+
+.footer{
+	font-size: 0.8em;
+	text-align: right;
+}
